@@ -1,4 +1,4 @@
-Epic: Title of the Epic: Launch MyWebClass.org
+Epic: Launch MyWebClass.org
 
 Description: This epic is focused on launching the MyWebClass.org website and ensuring it meets all legal and technical requirements, is easily found using a search engine, and allows the owner to measure user behavior on the site using Google Analytics. The website template will be developed, and content will be created to support the objectives of the website.
 
