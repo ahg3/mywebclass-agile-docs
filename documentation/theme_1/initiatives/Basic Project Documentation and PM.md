@@ -1,3 +1,7 @@
+# Initiative 1: Basic Project Documentation and Project Management
+
+## Description:
+
 This initiative involves creating a project plan and managing the project to ensure successful delivery of the MyWebClass website template. It will involve identifying the project scope, requirements, risks, and constraints, and developing a project schedule and budget.
 
 Goals:
@@ -50,4 +54,5 @@ Team:
 3. Legal Advisor: responsible for ensuring legal compliance
 4. SEO Specialist: responsible for implementing on-page SEO requirements
 
-[Epic](Launch MyWebClass.org)
+# Epic
+1. [Launch MyWebClass](https://github.com/ahg3/mywebclass-agile-docs/blob/095644b9859fc075aee5aa21d09a3a5980015ad0/documentation/theme_1/initiatives/Epic/Launch%20MyWebClass.md)
