@@ -1,3 +1,7 @@
+# Initiative 3: MyWebClass.org Base Website Template Development 
+
+## Description:
+
 Develop a website template that meets all legal and technical requirements, can be easily found using a search engine, and allows the owner to measure user behavior on the site using Google Analytics. This will serve as the foundation for the MyWebClass website and allow the team to produce various content to support their objectives.
 
 Goals:
@@ -53,3 +57,6 @@ Team:
 3. Website Developer
 4. SEO Specialist
 5. Content Creator
+
+# Epic
+1. [Base Website Template Dev of MyWebClass](https://github.com/ahg3/mywebclass-agile-docs/blob/c1aa4249b68d26ff75118dc08055671915bc7179/documentation/theme_1/initiatives/Epic/Base%20Website%20Template%20Dev%20of%20MyWebClass.md)
