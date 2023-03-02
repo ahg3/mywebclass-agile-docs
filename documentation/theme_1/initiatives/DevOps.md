@@ -1,3 +1,7 @@
+# Initiative 2: DevOps
+
+## Description:
+
 This initiative involves setting up a DevOps process to support the development of the MyWebClass website template. It will involve selecting and implementing DevOps tools and practices, establishing a continuous integration and delivery pipeline, and ensuring effective collaboration between development and operations teams.
 
 Goals:
@@ -41,3 +45,6 @@ Team:
 1. DevOps Engineer: responsible for implementing DevOps practices
 2. Web Developer: responsible for website development
 3. Operations Engineer: responsible for infrastructure management
+
+# Epic
+1. [Establish Continuous Integration and Delivery Pipeline](https://github.com/ahg3/mywebclass-agile-docs/blob/67ac69cb7110a99419d0ab49372bb072a6864880/documentation/theme_1/initiatives/Epic/Establish%20Continuous%20Integration%20and%20Delivery%20Pipeline.md)
