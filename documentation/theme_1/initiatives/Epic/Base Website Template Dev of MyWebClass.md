@@ -29,3 +29,7 @@ Estimated Effort: 4 months
 Business Value: The development of a website template that meets legal and technical requirements, is easily found using a search engine, and allows the owner to measure user behavior on the site using Google Analytics will enable the MyWebClass team to create and publish various types of content to support their objectives. A well-designed website will also improve the user experience and attract more visitors to the site.
 
 Priority: High
+
+# List Stories Related to This Epic
+1. [Website Template](https://github.com/ahg3/mywebclass-agile-docs/blob/1c74dbc24aee6d15f66a576fc35c2595b4e3f541/documentation/theme_1/initiatives/Epic/User%20Stories/Website_Template.md)
+2. [Implementation on-page SEO strategies](https://github.com/ahg3/mywebclass-agile-docs/blob/1c74dbc24aee6d15f66a576fc35c2595b4e3f541/documentation/theme_1/initiatives/Epic/User%20Stories/Implementation%20on-page%20SEO%20strategies.md)
