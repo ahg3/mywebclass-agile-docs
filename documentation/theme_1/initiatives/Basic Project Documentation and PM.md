@@ -49,3 +49,5 @@ Team:
 2. Web Developer: responsible for website development
 3. Legal Advisor: responsible for ensuring legal compliance
 4. SEO Specialist: responsible for implementing on-page SEO requirements
+
+[Epic](Launch MyWebClass.org)
