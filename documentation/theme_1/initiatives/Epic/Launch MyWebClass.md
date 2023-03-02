@@ -29,3 +29,7 @@ Estimated Effort: 6 months
 Business Value: The launch of MyWebClass.org will provide an online presence for the business, attract and retain users, and allow the owner to measure user behavior on the site using Google Analytics. This will enable the owner to make data-driven decisions to improve the user experience and make the website more successful.
 
 Priority: High
+
+# List Stories Related to This Epic
+1. [Website Template](https://github.com/ahg3/mywebclass-agile-docs/blob/97feaafde8996a136edc8c23810dc7dcc802a21a/documentation/theme_1/initiatives/Epic/User%20Stories/Website_Template.md)
+2. [Website template customization](https://github.com/ahg3/mywebclass-agile-docs/blob/97feaafde8996a136edc8c23810dc7dcc802a21a/documentation/theme_1/initiatives/Epic/User%20Stories/Website%20template%20customization.md)
