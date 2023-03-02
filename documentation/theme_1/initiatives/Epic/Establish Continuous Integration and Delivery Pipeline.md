@@ -32,3 +32,8 @@ Business Value:
 3. Increased stakeholder satisfaction and confidence in the development process
 
 Priority: High
+
+# List Stories Related to This Epic
+1. [Automated Build Process](https://github.com/ahg3/mywebclass-agile-docs/blob/787bccad5c4bc4d6837a63c6e4a0ca5d16c91095/documentation/theme_1/initiatives/Epic/User%20Stories/Automated%20Build%20Process.md)
+2. [Pass performance test](https://github.com/ahg3/mywebclass-agile-docs/blob/787bccad5c4bc4d6837a63c6e4a0ca5d16c91095/documentation/theme_1/initiatives/Epic/User%20Stories/Pass%20performance%20tests.md)
+3. [Testing Process](https://github.com/ahg3/mywebclass-agile-docs/blob/787bccad5c4bc4d6837a63c6e4a0ca5d16c91095/documentation/theme_1/initiatives/Epic/User%20Stories/Testing_Process.md)
